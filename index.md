@@ -228,7 +228,7 @@ If he restricts, he must demonstrate why the relation is functional and why a pa
 And if he transforms, he must demonstrate where the operation $$\Theta$$, capable of modifying $$T$$ from an element that does not originally even belong to the same system, comes from.
 
 
-# Conclusion
+# First part conclusion
 
 It follows that the more the correlationist intends to preserve the internal identity of each theory, the less he can sustain a strong integration between them; and, conversely, the more he intends to structurally integrate their elements, the more he must admit that at least one of the theories ceases to preserve its own determinations in their entirety. Correlation, therefore, cannot remain neutral in both directions simultaneously.
 
@@ -241,3 +241,239 @@ An unavoidable asymmetry therefore arises: either the theories remain independen
 The problem, therefore, is no longer simply whether two theories may be correlated, but what kind of relation this correlation purports to establish. If it merely recognizes similarities, then it alters nothing. If it restricts possibilities, then it must justify both the direction and the criterion of that restriction. If it transforms internal determinations, then it must demonstrate the principle according to which one theory acquires constitutive power over the other.
 
 The question therefore becomes less “which type corresponds to which type?” and more “what is the logical nature of the correspondence itself?” Until this has been established, every correlational result remains secondary
+
+## Are Correlations Valid?
+
+To be brief: yes, but only in part. Consider: it is correct to affirm that any equivalence between $$F$$ and $$\lambda$$ may be admitted only after a relation preserving the concrete determinations of both systems has been demonstrated. If $$D_F(\sigma)$$ represents the determinations that $$F$$ predicates of $$\sigma$$ and $$D_\lambda(\sigma)$$ those predicated by $$\lambda$$, then the mere inclusion of both within the same universe does not authorize:
+
+$$F,\lambda\subseteq\alpha;\not\Rightarrow;D_F(\sigma)\equiv D_\lambda(\sigma).$$
+
+Still less does it authorize concretely incompatible determinations to be simply annulled or simultaneously preserved by requirement of the correlation. An unrestricted integration would have to presuppose, for any determinations $$p\in D_F(\sigma)$$ and $$q\in D_\lambda(\sigma)$$, some rule $$R$$ capable of establishing their compatibility, transformation, or exclusion:
+
+$$\forall p\in D_F(\sigma);\forall q\in D_\lambda(\sigma),;\exists R(p,q).$$
+
+But it is precisely the existence and legitimacy of $$R$$ that must be demonstrated; they cannot be presupposed by the correlation itself.
+
+Consider: we cannot say that, upon applying a given force or operation $$\tau$$ to an object $$x$$ in an ideal environment $$E$$, in which no other independent operation is admitted, a rupture occurred directly through a mechanism $$c$$ that does not belong to the conditions established for $$E$$. If:
+
+$$C(E)={\tau}$$
+
+and:
+
+$$c\notin C(E),$$
+
+then it does not simply follow that:
+
+$$\tau(x);\Rightarrow;c(x).$$
+
+For such a passage to be legitimate, it would be necessary to demonstrate a causal or structural relation by which $$\tau$$ produces $$c$$:
+
+$$\tau(x)\to c(x).$$
+
+Without this intermediate relation, attributing the observed effect to $$c$$ would amount to introducing into the model a determination not derived from its own conditions.
+
+Analogously, since $$\lambda\subseteq\alpha$$ and $$F\subseteq\alpha$$, we have only:
+
+$$F,\lambda\subseteq\alpha.$$
+
+From this it does not follow that:
+
+$$F\equiv\lambda,$$
+
+nor:
+
+$$F\star\lambda,$$
+
+nor yet:
+
+$$D_F(\sigma)=D_\lambda(\sigma).$$
+
+If we wish to treat $$\alpha$$ as the field within which these theories apprehend aspects of a material reality, we may introduce a material universe $$M$$ such that:
+
+$$F\subseteq\alpha,\qquad \lambda\subseteq\alpha,\qquad \alpha\subseteq M.$$
+
+In this case, $$\alpha$$ should not be understood simply as material totality itself, but as the domain within which the subject analytically and semantically organizes certain determinations of $$M$$. Each theory therefore apprehends a proper aspect of the same object $$\sigma$$:
+
+$$\pi_F(\sigma)\in D_F(\sigma)$$
+
+and:
+
+$$\pi_\lambda(\sigma)\in D_\lambda(\sigma).$$
+
+The material identity of the object remains:
+
+$$\mathrm{Obj}(F)=\mathrm{Obj}(\lambda)=\sigma,$$
+
+but this does not imply identity between the apprehended aspects:
+
+$$\mathrm{Obj}(F)=\mathrm{Obj}(\lambda)=\sigma;\not\Rightarrow;\pi_F(\sigma)=\pi_\lambda(\sigma).$$
+
+We must therefore determine how each theory apprehends its aspect of the object from the observable effects in $$\alpha$$. If an observable effect is represented by $$e$$ and a hypothetical mechanism by $$m$$, then the observation of $$e$$ permits, at most, the proposal of an inference:
+
+$$e\Rightarrow m,$$
+
+whose validity still depends upon a justifying rule $$R$$:
+
+$$e,;R(e,m)\vdash m.$$
+
+Without $$R$$, the effect does not by itself demonstrate the truth of the mechanism attributed to it. It is precisely here that the subjective dimension of $$\alpha$$ enters: the material object $$\sigma$$ remains one, but its apprehension is carried out through distinct aspectual decompositions,
+
+$$\sigma\mapsto{\pi_1(\sigma),\pi_2(\sigma),\ldots,\pi_n(\sigma)},$$
+
+such that the existence of multiple descriptions of the same object does not, by itself, produce identity, equivalence, or causal power between those descriptions.
+
+In every case, we may introduce the function of the temporal factor and of the internal degrees of certainty that produce or reveal contradictions in descriptions concerning $$M$$. Thus, taking $$C(t)$$ as the measure of contradictions still admissible at a given instant $$t$$, when $$C(t)$$ tends to $$0$$, the contradictory possibilities concerning the type in $$F$$ are successively excluded. We may then have the derivative of the function itself also tend to $$0$$, that is, the curve becomes horizontal through successive exclusion, such that not only do its contradictions begin to tend toward zero, but the variation of those contradictions also tends to disappear:
+
+$$\lim_{t\to\infty}C(t)=0$$
+
+and:
+
+$$\lim_{t\to\infty}C'(t)=0.$$
+
+This is the succession we seek: tending toward $$0$$ is the pattern of reduction of contradictions, while $$C'(t)\to0$$ is what properly horizontalizes the function, progressively organizing what we may affirm about how $$\alpha$$ is, without a remaining determination necessarily implying the negation of another.
+
+Graphically, the function $$C(t)$$ assumes values from the determinations of $$F$$ and $$\lambda$$ in a manner that, if not periodic, may be discontinuous, precisely because of the individual perception of $$\alpha$$ and of its parts, proceeding through the simplification of $$F$$, then of $$\lambda$$, and subsequently of the possible relations between both. We may therefore represent this successive exclusion by:
+
+$$\mathcal C(t_0)\supseteq\mathcal C(t_1)\supseteq\mathcal C(t_2)\supseteq\cdots,$$
+
+where:
+
+$$C(t_0)\geq C(t_1)\geq C(t_2)\geq\cdots\geq0.$$
+
+Subsequently, when the values approach $$0$$, the entire remaining set will present descriptive and phenomenological PATTERNS that do not contradict one another, appearing successive with respect to one another; one may or may not generate the other, since temporal succession does not necessarily imply causality:
+
+$$p_i\prec p_j;\not\Rightarrow;p_i\to p_j.$$
+
+One pattern may generate another, but it may also merely precede it, accompany it, or constitute one of its conditions; and it is precisely this that I call the function that IN THIS WAY interferes with the type: not through the mere presence of $$\lambda$$, but when temporal succession makes it possible to show that some determination of $$\lambda$$ participates in a stable manner in the modification of some determination of $$F$$.
+
+At this point, $$\lambda$$ is no longer null or neutral. If initially we have:
+
+$$\Lambda(F)=F,$$
+
+then $$\lambda$$ remains neutral insofar as its application modifies no determination of $$F$$. But when we introduce the temporal factor:
+
+$$\Lambda_t\to F,$$
+
+and find at least one determination for which:
+
+$$\exists f\in F;\exists t:\Lambda_t(f)\neq f,$$
+
+neutrality no longer holds. Only then does $$\lambda^{+}$$ directly interfere in $$\alpha$$, not simply because $$\lambda\subseteq\alpha$$, but because $$\alpha$$ exists as an articulated set of apprehended parts and aspects, while $$\lambda^{+}$$ begins to operate as observer, pattern-former, and temporal factor over this material set, selecting, through succession and the exclusion of contradictions, which patterns remain stable.
+
+Thus, $$\lambda^{+}$$ does not interfere with the type through an arbitrary correlation between $$F$$ and $$\lambda$$, but because temporal observation produces a successive reduction of contradictory possibilities until certain relations survive as descriptive and phenomenological PATTERNS:
+
+$$\lim_{t\to\infty}C(t)=0;\land;\lim_{t\to\infty}C'(t)=0,$$
+
+and only then may we investigate whether these patterns possess effective incidence upon $$F$$, that is, whether:
+
+$$\Lambda_{\lambda^{+},t}(F)\neq F.$$
+
+In this way, it is not the mere coexistence of $$F$$ and $$\lambda$$ in $$\alpha$$ that produces interference, but the temporal stabilization of relations that remain after the successive exclusion of contradictions.
+
+The problem with tending toward $$0$$ without necessarily ever reaching $$0$$ also lies in the factor of expressive accumulation and in the changes of $$\alpha$$ itself over time. Assuming that a type in $$F$$ and a type in $$\lambda$$ do not change as typological determinations, the temporal factor does not properly alter $$F$$ or $$\lambda$$, but alters the external conclusion concerning how $$\alpha$$ apprehends a given object, or else allows $$\alpha$$ to mature points, tensions, and determinations that had previously not been sufficiently expressed for the determination of the type in $$\lambda$$ or even for the apprehension of $$\alpha$$ concerning itself. This includes, for example, neuroses, conflicts, or problems relative to the object insofar as assimilation is concerned, since such elements may interfere with observable manifestation without the underlying type thereby necessarily having changed.
+
+We may therefore distinguish the type from that which is temporally apprehended concerning it. If $$F$$ and $$\lambda$$ remain constant, we may write:
+
+$$F(t)=F$$
+
+and:
+
+$$\lambda(t)=\lambda,$$
+
+while the apprehension of $$\alpha$$ remains temporally variable:
+
+$$\alpha(t_1)\neq\alpha(t_2).$$
+
+Time, in this sense, does not necessarily transform the type, but modifies the set of determinations available to the observer concerning how that type manifests itself materially and phenomenologically in $$M$$. Thus, what varies is rather:
+
+$$D_{\alpha}(t),$$
+
+that is, the set of known or admissible determinations concerning $$\alpha$$ at a given instant.
+
+Now, tending toward $$0$$ does not properly mean producing fewer known data concerning the patterns of $$\alpha$$ in $$M$$; it means progressively producing fewer indeterminations, incompatibilities, or contradictions among the known data. If we call $$\mathcal C_{\alpha}(t)$$ the set of such unresolved incompatibilities, then:
+
+$$C_{\alpha}(t)=\lvert\mathcal C_{\alpha}(t)\rvert,$$
+
+and the expected process will be:
+
+$$\lim_{t\to\infty}C_{\alpha}(t)=0.$$
+
+As more relevant data accumulate, therefore, there should not be less knowledge, but rather a smaller number of contradictory possibilities still compatible with what has been observed. The increase of information restricts the field of possibilities:
+
+$$D_{\alpha}(t_0)\subseteq D_{\alpha}(t_1)\subseteq D_{\alpha}(t_2)\subseteq\cdots,$$
+
+while, ideally:
+
+$$\mathcal C_{\alpha}(t_0)\supseteq\mathcal C_{\alpha}(t_1)\supseteq\mathcal C_{\alpha}(t_2)\supseteq\cdots.$$
+
+It must be conceded, however, that discontinuities, perceptual errors, and interpretative mistakes exist. It is precisely here that one of the central problems appears: faced with an observational discontinuity, one may produce an induction intended not to explain the discontinuity itself, but simply to prevent the function from appearing discontinuous. In other words, the observer introduces an inferential connection where the material datum supplied no observable connection.
+
+If we have two observed states:
+
+$$\alpha(t_i)=a_i$$
+
+and:
+
+$$\alpha(t_{i+1})=a_{i+1},$$
+
+it does not necessarily follow that all intermediate states have been known. Filling this interval by induction is equivalent to introducing an inferred function $$\widehat{\alpha}(t)$$:
+
+$$\widehat{\alpha}(t)\neq\alpha(t)$$
+
+as an epistemic possibility. The problem arises when this inferred function comes to be treated as though it were the material trajectory of $$\alpha$$ itself. It is from this procedure that gross errors may arise: internal mechanisms are attributed to $$\alpha$$ merely because they were necessary to keep the model constructed by the observer continuous. Thus, precisely the problems previously refuted are reintroduced: the description begins to determine the object instead of being determined by the observable effects of the object.
+
+The continuity of the description, therefore, cannot be presupposed. In prose: the continuity attributed to $$\widehat{\alpha}(t)$$ does not imply the real continuity of $$\alpha(t)$$.
+
+Likewise, the apparent absence of contradictions in an interpolation does not demonstrate that the proposed relation exists materially in $$M$$:
+
+$$\mathrm{Cons}(\widehat{\alpha});\not\Rightarrow;\mathrm{Obj}(\widehat{\alpha})\subseteq M.$$
+
+Therefore, for a correlation between $$F$$ and $$\lambda$$ to be valid in the strong sense under discussion, it is not enough that some descriptions occasionally coincide, nor that an induction succeed in rendering initially discontinuous manifestations continuous. It is necessary that the descriptions produced by $$F$$ and by $$\lambda$$ converge upon the same materially observable patterns in $$M$$, and that this convergence survive the temporal factor, discontinuities, and the successive exclusion of contradictory hypotheses.
+
+If we represent by $$C_F(t)$$ the remaining incompatibilities in the description produced by $$F$$, and by $$C_\lambda(t)$$ those produced by $$\lambda$$, then a necessary condition would be:
+
+$$\lim_{t\to\infty}C_F(t)=0$$
+
+and:
+
+$$\lim_{t\to\infty}C_\lambda(t)=0.$$
+
+But this is still insufficient to establish equivalence between them, since two theories may become internally non-contradictory and yet converge toward different descriptions. For the strong equivalence being required, their descriptions must also converge toward the same descriptive point or state concerning $$\alpha$$ in $$M$$. If $$D_F(t)$$ and $$D_\lambda(t)$$ represent these descriptions, then:
+
+$$\lim_{t\to\infty}D_F(t)=D^{*}$$
+
+and:
+
+$$\lim_{t\to\infty}D_\lambda(t)=D^{*}.$$
+
+Equivalently:
+
+$$\lim_{t\to\infty}d(D_F(t),D_\lambda(t))=0,$$
+
+where $$d$$ represents some previously defined measure of difference between the two descriptions.
+
+It is only in this case that all successions converge toward a single descriptive point, not through an artificially induced continuity, but because the progressive exclusion of incompatible possibilities causes initially distinct descriptions to end by preserving the same pattern in $$M$$. Strong correlation would therefore have to possess a property of convergence:
+
+$$D_F(t)\to D^{*}$$
+
+and:
+
+$$D_\lambda(t)\to D^{*}.$$
+
+If different individuals, different temporal successions, or different material conditions produce incompatible limits:
+
+$$D_F(t)\to D_1^{*}$$
+
+and:
+
+$$D_\lambda(t)\to D_2^{*}$$
+
+with:
+
+$$D_1^{}\neq D_2^{},$$
+
+then there is no universal equivalence between $$F$$ and $$\lambda$$; there are, at most, local coincidences, partial correlations, or contingent relations.
+
+Therefore, for the correlation to be valid, the tendency toward $$0$$ of both systems must converge upon the same material object that may be described independently by $$F$$ and $$\lambda$$, without the convergence depending upon a perceptual inference introduced ad hoc by the observer factor. The material field itself must progressively restrict the possibilities through the principle of non-contradiction and through the exclusion of merely apparent or inferentially filled discontinuities. This is what logically leads me to think that combinations of types are observations that converge as the residual difference between their descriptions tends toward $$0$$, rather than typological predeterminations. This structurally undermines the possibility of establishing correlation from effects that are merely externally similar, since similarity is not identity; what must be perceived is precisely a natural conjunction, materially constrained and not produced by ad hoc induction.
+
+Therefore, to say that an $$SP8$$ is an $$SLE$$ would be legitimate only through convergent effects and not through an anticipated description of how each type is supposed to act. An $$SP8$$ may focus upon a non-material object, just as an $$SLE$$ may also do so, without this necessarily altering its structure, since what changes is the chosen object and not, merely for that reason, the structure of relation to the object. This must hold for every case of typological convergence: the relation cannot be constrained by a semantics introduced into $$\alpha$$ in order to force the systems to coincide, but by effects that remain
