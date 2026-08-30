@@ -1,7 +1,7 @@
 ---
-
 layout: default
-title: Identity of the Object, Not Identity of the Theory: A Logical Critique of Typological Correlationism
+title: "Identity of the Object, Not Identity of the Theory: A Logical Critique of Typological Correlationism"
+---
 -----------------------------------------------------------------------------------------------------------
 
 # Identity of the Object, Not Identity of the Theory: A Logical Critique of Typological Correlationism
