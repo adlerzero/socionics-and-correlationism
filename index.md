@@ -99,7 +99,7 @@ $D_F(\sigma)\neq D_\lambda(\sigma);\not\Rightarrow;\sigma\neq\sigma'$.
 
 The central point, therefore, is neither to deny that different theories may possess the same referent, nor to deny that they may be formally correlated. It is to deny that the mere membership of these theories within a supposed common universe, or the mere identity of their material object of study, is sufficient to legitimize a structural integration between them.
 
-Why Yes and Why Not?
+## Why Yes and Why Not?
 
 Given this brief introduction, we must now address the points raised. I will not, at this moment, extend myself exhaustively over how $\sigma\neq\sigma'$, but rather over how the implication that supposedly makes such a passage possible is, before anything else, logically unjustified — and, under the terms in which it is ordinarily presupposed, simply pathetic.
 
@@ -227,7 +227,7 @@ If he restricts, he must demonstrate why the relation is functional and why a pa
 
 And if he transforms, he must demonstrate where the operation $\Theta$, capable of modifying $T$ from an element that does not originally even belong to the same system, comes from.
 
-Formal Conclusion
+# Conclusion
 
 It follows that the more the correlationist intends to preserve the internal identity of each theory, the less he can sustain a strong integration between them; and, conversely, the more he intends to structurally integrate their elements, the more he must admit that at least one of the theories ceases to preserve its own determinations in their entirety. Correlation, therefore, cannot remain neutral in both directions simultaneously.
 
