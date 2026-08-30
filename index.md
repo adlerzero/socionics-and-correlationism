@@ -2,7 +2,6 @@
 layout: default
 title: "Identity of the Object, Not Identity of the Theory: A Logical Critique of Typological Correlationism"
 ---
------------------------------------------------------------------------------------------------------------
 
 # Identity of the Object, Not Identity of the Theory: A Logical Critique of Typological Correlationism
 
@@ -24,21 +23,21 @@ title: "Identity of the Object, Not Identity of the Theory: A Logical Critique o
 
 The task of studying Socionics by arbitrarily integrating it into an axiomatic frame of reference — that is, by means of indiscriminate correlations between distinct theories — ultimately constitutes a serious category error, a question that will not yet be addressed directly and which, for the moment, must be taken merely as an announced thesis. Even so, this consideration is useful for exposing how problematic the attempt is to ground the thesis according to which different typological systems may be integrated without relevant alteration of their internal determinations.
 
-Let $T$ be the set of the sixteen Socionic types and $IM$ the set of the eight information metabolisms. We therefore define $T={t_1,\ldots,t_{16}}$ and $IM={im_1,\ldots,im_8}$.
+Let $T$ be the set of the sixteen Socionic types and $IM$ the set of the eight information metabolisms. We therefore define $T=\{t_1,\ldots,t_{16}\}$ and $IM=\{im_1,\ldots,im_8\}$.
 
-The set of typologically determined functionings may be represented by the Cartesian product $F:=IM\times T$. Hence, $|F|=|IM|\cdot|T|=8\cdot16=128$.
+The set of typologically determined functionings may be represented by the Cartesian product $F:=IM\times T$. Hence, $\lvert F\rvert=\lvert IM\rvert\cdot\lvert T\rvert=8\cdot16=128$.
 
 Each particular functioning therefore has the form $f_{ij}=(im_i,t_j)$, with $1\leq i\leq8$ and $1\leq j\leq16$. Thus:
 
-$F={(im_i,t_j)\mid im_i\in IM,;t_j\in T}$.
+$F=\{(im_i,t_j)\mid im_i\in IM,\;t_j\in T\}$.
 
 These $128$ functionings encompass not only analytical characteristics, that is, theoretical determinations which, insofar as they are internal descriptions of the system, are not facts in themselves and cannot immediately be identified with empirical facts. They also encompass analogical characteristics, formed through the internal relations of the system itself, whose manifestation cannot be adequately predicted when one takes as a premise that an external set of theoretical correlations must necessarily remain neutral with respect to the structure being described.
 
-Let $\lambda={\lambda_1,\lambda_2,\ldots,\lambda_n}$ designate the set of factors derived from different typological theories, considered without prior discrimination concerning their structural compatibility with $F$. Let also $|\lambda|=n_\lambda$.
+Let $\lambda=\{\lambda_1,\lambda_2,\ldots,\lambda_n\}$ designate the set of factors derived from different typological theories, considered without prior discrimination concerning their structural compatibility with $F$. Let also $\lvert\lambda\rvert=n_\lambda$.
 
 The problem appears when one presupposes that the introduction of $\lambda$ upon the system $F$ is neither an annulatory, modifying, nor semantically perturbing factor with respect to its determinations, but merely a neutral element regarding what each functioning is, the manner in which it presents itself, that toward which it tends, and that which, according to its own structure, it produces.
 
-This neutrality may be represented by an operator $\Lambda:F\to F$, such that the hypothesis of neutrality is $\Lambda(F)=F$. For every particular functioning, we would have $\forall f\in F,;\Lambda(f)=f$.
+This neutrality may be represented by an operator $\Lambda:F\to F$, such that the hypothesis of neutrality is $\Lambda(F)=F$. For every particular functioning, we would have $\forall f\in F,\;\Lambda(f)=f$.
 
 Thus, the expression originally intended by $IM(T)[(\lambda)]\to IM(T)$ may be formalized more rigorously as $\Lambda(F)=F$.
 
@@ -50,7 +49,7 @@ We may therefore write $\operatorname{Obj}(F)=\operatorname{Obj}(\lambda)=\sigma
 
 Yet from their mere common membership in $\alpha$, that is, from $F,\lambda\subseteq\alpha$, no necessary interaction between $F$ and $\lambda$ follows:
 
-$F,\lambda\subseteq\alpha;\not\Rightarrow;F\star\lambda$.
+$F,\lambda\subseteq\alpha\;\not\Rightarrow\;F\star\lambda$.
 
 Likewise, from the coreference of two descriptive systems, expressed by $\operatorname{Obj}(F)=\operatorname{Obj}(\lambda)=\sigma$, it does not follow that their integration necessarily produces an alteration of the object itself. The identity of the referent must here be distinguished from the identity of the descriptions attributed to it.
 
@@ -64,11 +63,11 @@ $\sigma=\sigma'\qquad\text{and}\qquad D_F(\sigma)\neq D_{F+\lambda}(\sigma)$.
 
 In other words, difference between descriptions does not imply an ontological difference between the objects described:
 
-$D_F(\sigma)\neq D_\lambda(\sigma);\not\Rightarrow;\sigma\neq\sigma'$.
+$D_F(\sigma)\neq D_\lambda(\sigma)\;\not\Rightarrow\;\sigma\neq\sigma'$.
 
 It is precisely this illicit passage from descriptive difference to ontological difference that must be avoided.
 
-If we now consider every formally possible combination between the $128$ Socionic functionings and the $n_\lambda$ factors belonging to $\lambda$, we obtain the product $F\times\lambda$. Its cardinality is $|F\times\lambda|=|F|\cdot|\lambda|=128n_\lambda$.
+If we now consider every formally possible combination between the $128$ Socionic functionings and the $n_\lambda$ factors belonging to $\lambda$, we obtain the product $F\times\lambda$. Its cardinality is $\lvert F\times\lambda\rvert=\lvert F\rvert\cdot\lvert\lambda\rvert=128n_\lambda$.
 
 Each combination may be represented by $(f_{ij},\lambda_k)\in F\times\lambda$, or, in expanded form, by $((im_i,t_j),\lambda_k)$.
 
@@ -76,7 +75,7 @@ Nevertheless, the existence of this Cartesian product demonstrates no causal, ex
 
 Consequently:
 
-$F\times\lambda;\not\Rightarrow;\Lambda(F)\neq F$.
+$F\times\lambda\;\not\Rightarrow\;\Lambda(F)\neq F$.
 
 The Cartesian product merely establishes possible combinations between elements of two sets; it does not establish, by itself, that such elements interact in a semantically legitimate, causally effective, or structurally modifying manner.
 
@@ -84,19 +83,19 @@ The non-neutrality of $\lambda$ relative to the system $F$ could only be affirme
 
 Formally:
 
-$\exists\lambda_k\in\lambda;\exists f\in F:\Lambda_k(f)\neq f$.
+$\exists\lambda_k\in\lambda\;\exists f\in F:\Lambda_k(f)\neq f$.
 
 Until this has been demonstrated, the automatic passage from mere theoretical coexistence to structural transformation remains illegitimate:
 
-$F,\lambda\subseteq\alpha\not\Rightarrow F\star\lambda$,
+$F,\lambda\subseteq\alpha\;\not\Rightarrow\;F\star\lambda$,
 
 as does:
 
-$F\times\lambda\not\Rightarrow\Lambda(F)\neq F$,
+$F\times\lambda\;\not\Rightarrow\;\Lambda(F)\neq F$,
 
 and, above all:
 
-$D_F(\sigma)\neq D_\lambda(\sigma)\not\Rightarrow\sigma\neq\sigma'$.
+$D_F(\sigma)\neq D_\lambda(\sigma)\;\not\Rightarrow\;\sigma\neq\sigma'$.
 
 The central point, therefore, is neither to deny that different theories may possess the same referent, nor to deny that they may be formally correlated. It is to deny that the mere membership of these theories within a supposed common universe, or the mere identity of their material object of study, is sufficient to legitimize a structural integration between them.
 
@@ -116,7 +115,7 @@ If within $F$ we have a conclusion $A$, and within $\lambda$ a conclusion $A'$, 
 
 We therefore have:
 
-$\operatorname{Obj}(A)=\operatorname{Obj}(A')=\sigma;\not\Rightarrow;A=A';\not\Rightarrow;A\leftrightarrow A'$.
+$\operatorname{Obj}(A)=\operatorname{Obj}(A')=\sigma\;\not\Rightarrow\;A=A'\;\not\Rightarrow\;A\leftrightarrow A'$.
 
 It is precisely here that arbitrary integration begins to demand that which it ordinarily presupposes itself already to possess: a rule demonstrating why $A$ must be interpreted as $A'$, why $A'$ must have any incidence upon $A$, and, above all, why the incidence of $A'$ upon $A$ should modify $T$ rather than merely constitute another description, according to another system, of the same $\sigma$.
 
@@ -126,7 +125,7 @@ Thus, from $F\subseteq\alpha$ and $\lambda\subseteq\alpha$, it does not follow t
 
 If we designate by $\Gamma$ the theoretical composition intended to unite both systems, that is, $\Gamma:=F\cup\lambda$, then the individual consistency of $F$ and $\lambda$ does not guarantee the consistency of $\Gamma$:
 
-$\operatorname{Cons}(F)\land\operatorname{Cons}(\lambda);\not\Rightarrow;\operatorname{Cons}(\Gamma)$.
+$\operatorname{Cons}(F)\land\operatorname{Cons}(\lambda)\;\not\Rightarrow\;\operatorname{Cons}(\Gamma)$.
 
 A contradiction properly so called would arise if, through integration, it became possible to derive in $\Gamma$ some proposition $A$ together with its negation $\neg A$, that is, if $\Gamma\vdash A$ and $\Gamma\vdash\neg A$. Yet if we merely have $F\vdash A$ and $\lambda\vdash A'$, with $A\neq A'$, this does not yet constitute contradiction: it constitutes difference. And precisely this difference must be preserved until some relation capable of identifying, translating, negating, or modifying one conclusion through the other has been demonstrated.
 
@@ -144,7 +143,7 @@ If no formally demonstrated $\varphi$ exists such that $\varphi(A)=A'$, yet the 
 
 In that case:
 
-$\nexists\varphi;\text{demonstrated such that};\varphi(A)=A'$.
+$\nexists\varphi\;\text{demonstrated such that}\;\varphi(A)=A'$.
 
 Yet the subject nevertheless postulates $A\equiv A'$.
 
@@ -156,7 +155,7 @@ It may therefore occur that $\operatorname{repr}(a_F)=\operatorname{repr}(a_\lam
 
 More directly:
 
-$\operatorname{repr}(a_F)=\operatorname{repr}(a_\lambda);\not\Rightarrow;a_F=a_\lambda$.
+$\operatorname{repr}(a_F)=\operatorname{repr}(a_\lambda)\;\not\Rightarrow\;a_F=a_\lambda$.
 
 That which is numerically or graphically identical as a sign may be substantially, intensionally, and structurally distinct as a theoretical element. And if this is true of a simple sign, it applies with still greater force to entire categories whose signification depends upon the relations they maintain with every other element of their own system.
 
@@ -198,9 +197,9 @@ $b_0\to b_1\to\cdots\to b_m$,
 
 with $\operatorname{Obj}(a_i)=\operatorname{Obj}(b_j)=\sigma$, but without it following that $a_i=b_j$ or $a_i\to b_j$.
 
-If there are points of correspondence between them, these must be demonstrated. Let $\mathcal I$ be the set of effectively justified correspondences, defined by $\mathcal I:={(a_i,b_j)\mid\varphi(a_i)=b_j}$. There is no a priori formal reason to determine $|\mathcal I|$, still less to presuppose that every element of one structure necessarily possesses a corresponding element in the other.
+If there are points of correspondence between them, these must be demonstrated. Let $\mathcal I$ be the set of effectively justified correspondences, defined by $\mathcal I:=\{(a_i,b_j)\mid\varphi(a_i)=b_j\}$. There is no a priori formal reason to determine $\lvert\mathcal I\rvert$, still less to presuppose that every element of one structure necessarily possesses a corresponding element in the other.
 
-Consequently, we cannot simply assume $\forall a_i\in F,;\exists b_j\in\lambda':\varphi(a_i)=b_j$. This universal is precisely what would need to be demonstrated.
+Consequently, we cannot simply assume $\forall a_i\in F,\;\exists b_j\in\lambda':\varphi(a_i)=b_j$. This universal is precisely what would need to be demonstrated.
 
 From this follows another problem: how could information metabolism and, by extension, the factors belonging to $F$ be altered within $\alpha$ merely because another description belonging to $\lambda$ is also contained in $\alpha$, if $\alpha$ itself provides no rule of passage between the parts? The inclusion of $F$ and $\lambda$ in $\alpha$ establishes coexistence; it does not establish transformation.
 
@@ -210,7 +209,7 @@ If $K$ represents the set of types of a specific theory belonging to $\lambda$, 
 
 This, by itself, does not modify $t_i$.
 
-If the correlation is intended to restrict each Socionic type to a single correlated type, then $R$ would need to behave functionally, that is, $\forall t_i\in T,;\exists!k_j\in K:(t_i,k_j)\in R$. Only then could we define a function $\varphi:T\to K$.
+If the correlation is intended to restrict each Socionic type to a single correlated type, then $R$ would need to behave functionally, that is, $\forall t_i\in T,\;\exists!k_j\in K:(t_i,k_j)\in R$. Only then could we define a function $\varphi:T\to K$.
 
 Yet even then we would have only a correspondence between types belonging to distinct systems, not an alteration of $T$.
 
