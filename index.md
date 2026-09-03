@@ -4,7 +4,7 @@ title: "Identity of the Object, Not Identity of the Theory: A Logical Critique o
 ---
 
 # Identity of the Object, Not Identity of the Theory: A Logical Critique of Typological Correlationism
-
+### Language: Formal Logic + Linear Algebra
 ### Legend
 
 1. $T$ — the set of the sixteen Socionic types.
